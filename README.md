@@ -1,6 +1,7 @@
 # TriPeaks
 
-A simple tri peaks solitaire game using [libGDX](https://libgdx.com/).
+A simple tri peaks solitaire game using [libGDX](https://libgdx.com/). Ported to Nintendo Switch using
+[SwitchGDX](https://github.com/TheLogicMaster/switch-gdx).
 
 ## Screenshots:
 
